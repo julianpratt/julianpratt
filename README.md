@@ -1,6 +1,6 @@
 Retired software developer 
 
-Feel free to use anything you find useful here. Most of it is for my personal use, but made public because that's simpler.
+Feel free to use anything you find useful here. Most of it is for my personal use, but made public because that's less hassle.
 
 Those who know me, know how to reach me.
 
