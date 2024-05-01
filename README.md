@@ -1,10 +1,8 @@
-Hi, I am Julian Pratt, a retired software developer. 
+Retired software developer 
 
-These repositories enable me to share applications and utilities, with others who may wish to use them. 
+Feel free to use anything you find useful here. Most of it is for my personal use, but made public because that's simpler.
 
-There is probably little of general interest here, but the respositories are made public because there is nothing here that needs to be restricted and it is easier to simply open things up.
-
-If you know me, then you'll know how to reach me. If you don't, then this isn't the place to share that information.  
+Those who know me, know how to reach me.
 
 <!---
 julianpratt/julianpratt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
